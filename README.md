@@ -17,3 +17,7 @@ Precision measurements and tests of the Standard Model using OPAL data at LEP
 
 6. Open `grope-stuff/grope-analysis.ipynb` to check out our analysis of the Grope example events.
 	It's not necessary for the rest of the code, since we defined our cuts using the MC dataset.
+
+## Attention:
+
+Calculated values may vary between different executions because of the used Gaussian sampling for error propagation.
